@@ -1,6 +1,6 @@
 import 'package:clean_achitrcture/cores/error/excepton.dart';
 import 'package:clean_achitrcture/cores/error/failure.dart';
-import 'package:clean_achitrcture/cores/platform/network_info.dart';
+import 'package:clean_achitrcture/cores/networks/network_info.dart';
 import 'package:clean_achitrcture/features/number_trivia/data/data_source/number_trivia_local_data_source.dart';
 import 'package:clean_achitrcture/features/number_trivia/data/data_source/number_trivia_remote_data_source.dart';
 import 'package:clean_achitrcture/features/number_trivia/data/models/number_trivia_model.dart';

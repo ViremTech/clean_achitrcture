@@ -5,7 +5,7 @@
 // ignore_for_file: no_leading_underscores_for_library_prefixes
 import 'dart:async' as _i4;
 
-import 'package:clean_achitrcture/cores/platform/network_info.dart' as _i6;
+import 'package:clean_achitrcture/cores/networks/network_info.dart' as _i6;
 import 'package:clean_achitrcture/features/number_trivia/data/data_source/number_trivia_local_data_source.dart'
     as _i5;
 import 'package:clean_achitrcture/features/number_trivia/data/data_source/number_trivia_remote_data_source.dart'
